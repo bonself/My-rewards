@@ -1,0 +1,57 @@
+div.DropBorder {
+}
+
+div.DropBorder div {
+	background-image: url(./DropBorder/l.gif);
+	background-repeat: repeat-y;
+	background-position: left top;
+}
+
+div.DropBorder div div {
+	background-image: url(./DropBorder/b.gif);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+}
+
+div.DropBorder div div div {
+	background-image: url(./DropBorder/r.gif);
+	background-repeat: repeat-y;
+	background-position: right top;
+}
+
+div.DropBorder div div div div {
+	background-image: url(./DropBorder/t.gif);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+
+div.DropBorder div div div div div {
+	background-image: url(./DropBorder/lb.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+
+div.DropBorder div div div div div div {
+	background-image: url(./DropBorder/rb.gif);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+div.DropBorder div div div div div div div {
+	background-image: url(./DropBorder/rt.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+div.DropBorder div div div div div div div div {
+	background-image: url(./DropBorder/lt.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+div.DropBorder div div div div div div div div div {
+	background-image: url(./DropBorder/null.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+

@@ -1,0 +1,56 @@
+div.BigDropFrame {
+}
+
+div.BigDropFrame div {
+	background-image: url(./BigDropFrame/l.gif);
+	background-repeat: repeat-y;
+	background-position: left top;
+}
+
+div.BigDropFrame div div {
+	background-image: url(./BigDropFrame/b.gif);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+}
+
+div.BigDropFrame div div div {
+	background-image: url(./BigDropFrame/r.gif);
+	background-repeat: repeat-y;
+	background-position: right top;
+}
+
+div.BigDropFrame div div div div {
+	background-image: url(./BigDropFrame/t.gif);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+
+div.BigDropFrame div div div div div {
+	background-image: url(./BigDropFrame/lb.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+
+div.BigDropFrame div div div div div div {
+	background-image: url(./BigDropFrame/rb.gif);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+div.BigDropFrame div div div div div div div {
+	background-image: url(./BigDropFrame/rt.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+div.BigDropFrame div div div div div div div div {
+	background-image: url(./BigDropFrame/lt.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+div.BigDropFrame div div div div div div div div div {
+	background-image: url(./BigDropFrame/null.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}

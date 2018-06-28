@@ -1,0 +1,56 @@
+div.DropFrame {
+}
+
+div.DropFrame div {
+	background-image: url(./DropFrame/l.gif);
+	background-repeat: repeat-y;
+	background-position: left top;
+}
+
+div.DropFrame div div {
+	background-image: url(./DropFrame/b.gif);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+}
+
+div.DropFrame div div div {
+	background-image: url(./DropFrame/r.gif);
+	background-repeat: repeat-y;
+	background-position: right top;
+}
+
+div.DropFrame div div div div {
+	background-image: url(./DropFrame/t.gif);
+	background-repeat: repeat-x;
+	background-position: left top;
+}
+
+div.DropFrame div div div div div {
+	background-image: url(./DropFrame/lb.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+
+div.DropFrame div div div div div div {
+	background-image: url(./DropFrame/rb.gif);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+div.DropFrame div div div div div div div {
+	background-image: url(./DropFrame/rt.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+div.DropFrame div div div div div div div div {
+	background-image: url(./DropFrame/lt.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+div.DropFrame div div div div div div div div div {
+	background-image: url(./DropFrame/null.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
